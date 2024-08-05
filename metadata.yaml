@@ -1,0 +1,35 @@
+_repo: Le-roman-de-Confucius_74035
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Magre, Maurice
+    birthdate: 1877
+    deathdate: 1941
+    gutenberg_agent_id: '53160'
+    url: http://www.gutenberg.org/2009/agents/53160
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maurice_Magre
+    - https://fr.wikipedia.org/wiki/Maurice_Magre
+description: 'At head of title: La lumière de la Chine.'
+gutenberg_issued: '2024-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74035'
+  lccn: '27014289'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k3758653
+pgterms:marc905: 20240711113549magre
+pgterms:marc906: '1927'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bEugène Fasquelle, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confucianism'
+- !lcc 'PQ'
+- GITenberg
+title: Le roman de Confucius
+url: http://www.gutenberg.org/ebooks/74035
